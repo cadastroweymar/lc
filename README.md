@@ -1,2 +1,2 @@
-# lc
-Repositório Licenciatura em Computação
+# rw
+Repositório Cadastro Weymar
